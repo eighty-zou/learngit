@@ -5,3 +5,4 @@ Git tracks changes of files.
 
 another line
 123456
+creating a new branch is quick AND simple
